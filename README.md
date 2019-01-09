@@ -19,7 +19,7 @@ If you would like to **add to the discussion**, please see our [Contributing Gui
 
 If you want to **get into code and start hacking**, check out [first timer](https://github.com/issues?q=is:open+org:datatogether+label:first-timers-only) issues! [Webapp](https://github.com/datatogether/webapp) and [sentry](http://github.com/datatogether/sentry) are the best points of entry. We track project progress using a [Waffle Board](https://waffle.io/datatogether/roadmap) and identify major goals in our [Roadmap repository](https://github.com/datatogether/roadmap/).
 
-If you would like to get **email notification** , please join our [public google group] (https://groups.google.com/forum/#!forum/datatogether/join)
+If you would like to get **email notification** , please join our [**public google group**](https://groups.google.com/forum/#!forum/datatogether/join)
 
 ### Community Calendar
 
