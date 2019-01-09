@@ -15,15 +15,17 @@ Welcome to [Data Together](https://datatogether.org/), we're building a better f
 
 ## Get Involved
 
-If you would like to **add to the discussion**, please see our [Contributing Guidelines](./CONTRIBUTING.md) and [Code of Conduct](https://github.com/datatogether/datatogether/blob/master/CONDUCT.md). 
+If you would like to **add to the discussion**, please see our [Contributing Guidelines](./CONTRIBUTING.md) and [Code of Conduct](https://github.com/datatogether/datatogether/blob/master/CONDUCT.md).
 
 If you want to **get into code and start hacking**, check out [first timer](https://github.com/issues?q=is:open+org:datatogether+label:first-timers-only) issues! [Webapp](https://github.com/datatogether/webapp) and [sentry](http://github.com/datatogether/sentry) are the best points of entry. We track project progress using a [Waffle Board](https://waffle.io/datatogether/roadmap) and identify major goals in our [Roadmap repository](https://github.com/datatogether/roadmap/).
+
+If you would like to get **email notification** , please join our [public google group] (https://groups.google.com/forum/#!forum/datatogether/join)
 
 ### Community Calendar
 
 We have a public calendar that lists Data Together events and a Youtube playlists with recordings of our public calls!
 
-📅 [**Data Together Calendar**](https://calendar.google.com/calendar/embed?src=u75o4fbnv59006peo07nv67vsg%40group.calendar.google.com&ctz=America%2FToronto)  
+📅 [**Data Together Calendar**](https://calendar.google.com/calendar/embed?src=u75o4fbnv59006peo07nv67vsg%40group.calendar.google.com&ctz=America%2FToronto)
 ▶️ [**Call Playlist**](https://www.youtube.com/playlist?list=PLtsP3g9LafVul1gCctMYGm9sz5FUWr5bu)
 
 ### ~~Weekly Roundtables~~
@@ -32,22 +34,22 @@ We have a public calendar that lists Data Together events and a Youtube playlist
 
 _Please Note: As of August 2018, weekly roundtables are on hold. The calendar will have the most up to date details_
 
-📅 5pm-5:30pm ET Mondays (on hold)  
-▶️ Call Playlist: [youtube.com/playlist?list=PLtsP3g9LafVul1gCctMYGm9sz5FUWr5bu](https://www.youtube.com/playlist?list=PLtsP3g9LafVul1gCctMYGm9sz5FUWr5bu)  
+📅 5pm-5:30pm ET Mondays (on hold)
+▶️ Call Playlist: [youtube.com/playlist?list=PLtsP3g9LafVul1gCctMYGm9sz5FUWr5bu](https://www.youtube.com/playlist?list=PLtsP3g9LafVul1gCctMYGm9sz5FUWr5bu)
 
 ### Monthly Reading Groups
 
 [**Monthly reading groups**](https://github.com/datatogether/reading_datatogether/) are 1.5 hour discussions of a series of readings that share a common theme relevant to our interests with Data Together. Coordinating and selecting themes and readings happens in the [`reading_datatogether`](https://github.com/datatogether/reading_datatogether/) repository.
 
-📅 3:30pm-5:00pm ET Tuesdays (starting up again in 2019)  
-▶️ Call Playlist: [youtube.com/playlist?list=PLtsP3g9LafVul1gCctMYGm9sz5FUWr5bu](https://www.youtube.com/playlist?list=PLtsP3g9LafVul1gCctMYGm9sz5FUWr5bu)  
+📅 3:30pm-5:00pm ET Tuesdays (starting up again in 2019)
+▶️ Call Playlist: [youtube.com/playlist?list=PLtsP3g9LafVul1gCctMYGm9sz5FUWr5bu](https://www.youtube.com/playlist?list=PLtsP3g9LafVul1gCctMYGm9sz5FUWr5bu)
 
 ### Quarterly Calls
 
 [**Quarterly calls**](https://github.com/datatogether/datatogether/blob/master/guidelines/roundtable.md) are held four times annually, for everyone, but especially Data Together partners to sync up on ongoing projects, what is going on in their organizations, and more.
 
-📅 Once per quarter  
-▶️ Call Playlist: [youtube.com/playlist?list=PLtsP3g9LafVul1gCctMYGm9sz5FUWr5bu](https://www.youtube.com/playlist?list=PLtsP3g9LafVul1gCctMYGm9sz5FUWr5bu)  
+📅 Once per quarter
+▶️ Call Playlist: [youtube.com/playlist?list=PLtsP3g9LafVul1gCctMYGm9sz5FUWr5bu](https://www.youtube.com/playlist?list=PLtsP3g9LafVul1gCctMYGm9sz5FUWr5bu)
 
 ## Working Openly
 
